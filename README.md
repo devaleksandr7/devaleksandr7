@@ -1,8 +1,8 @@
 <h2>Olá! eu me chamo aleksandr</h2>
 <h3>Sobre mim</h3>
 <ul>
-  <li>I'm currently studying Software Engineering and focusing on Front-End.
-  <li>I like programming and the area of information security
+  <li>Atualmente Cursando Engenharia de Software e focado em front-end
+  <li>Gosto de programação e tenho uma queda por Segurança da Informação
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devaleksandr7&theme=merko"/>
   <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaleksandr7&layout=compact&langs_count=16&theme=merko"/>-->
