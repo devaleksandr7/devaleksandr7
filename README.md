@@ -5,7 +5,7 @@
   <li>Gosto de programação e tenho uma queda por Segurança da Informação
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devaleksandr7&theme=merko"/>
-  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaleksandr7&layout=compact&langs_count=16&theme=merko"/>-->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaleksandr7&layout=compact&langs_count=16&theme=merko"/>
 </div>
 <div> 
   <a href="https://www.youtube.com/channel/UCksZUKgW5ygWUOMRFMCJeoA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
