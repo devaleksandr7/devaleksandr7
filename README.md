@@ -16,4 +16,4 @@
   <a href="https://www.linkedin.com/in/aleksandrdev7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.tiktok.com/@aleksdev7"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
  </div>
- [snake animation](https://github.com/devaleksandr7/devaleksandr7/blob/output/github-contribution-grid-snake.svg)
+ 
