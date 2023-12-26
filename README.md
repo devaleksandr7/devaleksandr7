@@ -1,4 +1,4 @@
-<h2>Olá! eu me chamo aleksandr</h2>
+<h2>Olá! eu me chamo alexander</h2>
 <h3>Sobre mim</h3>
 <ul>
   <li>Atualmente Cursando Engenharia de Software e focado em front-end
